@@ -1,7 +1,7 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: My GitHub
+  url: https://github.com/scarlettbai/scarlettbai.github.io
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Our Link
+  url: http://www.scarlettbai.com
