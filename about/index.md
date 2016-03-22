@@ -11,7 +11,8 @@ modified: 2016-03-21
 
 **NAME:**White<br/>
 **QQ:**278304518<br/>
-**EMAIL:**thebelliswhite@gmail.com
+**EMAIL:**thebelliswhite@gmail.com<br/>
+**微信公众号:**读书健身编程
 
 ## 个人简述:
 
