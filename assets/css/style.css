@@ -111,7 +111,7 @@ ul a:focus {
 i.fb {
 	width: 30px;
 	height: 30px;
-	background: url(../bookimages/img-sprite.png)no-repeat -51px -11px ;
+	background: url(/bookimages/img-sprite.png)no-repeat -51px -11px ;
 	float: left;
 	vertical-align: middle;
 	transition: 0.5s all;
@@ -120,12 +120,12 @@ i.fb {
 	-moz-transition: 0.5s all;
 }
 i.fb:hover {
-	background: url(../bookimages/img-sprite.png)no-repeat -51px -49px;
+	background: url(/bookimages/img-sprite.png)no-repeat -51px -49px;
 }
 i.twt{
 	width: 30px;
 	height: 30px;
-	background: url(../bookimages/img-sprite.png)no-repeat -11px -11px;
+	background: url(/bookimages/img-sprite.png)no-repeat -11px -11px;
 	float: left;
 	vertical-align: middle;
 	transition: 0.5s all;
@@ -134,12 +134,12 @@ i.twt{
 	-moz-transition: 0.5s all;
 }
 i.twt:hover {
-	background: url(../bookimages/img-sprite.png)no-repeat -11px -49px;
+	background: url(/bookimages/img-sprite.png)no-repeat -11px -49px;
 }
 i.rs{
 	width: 30px;
 	height: 30px;
-	background: url(../bookimages/img-sprite.png)no-repeat -205px -15px;
+	background: url(/bookimages/img-sprite.png)no-repeat -205px -15px;
 	float: left;
 	vertical-align: middle;
 	transition: 0.5s all;
@@ -148,12 +148,12 @@ i.rs{
 	-moz-transition: 0.5s all;
 }
 i.rs:hover{
-	background: url(../bookimages/img-sprite.png)no-repeat -205px -49px;
+	background: url(/bookimages/img-sprite.png)no-repeat -205px -49px;
 }
 i.bg{
 	width: 30px;
 	height: 30px;
-	background: url(../bookimages/img-sprite.png)no-repeat -128px -13px;
+	background: url(/bookimages/img-sprite.png)no-repeat -128px -13px;
 	float: left;
 	vertical-align: middle;
 	transition: 0.5s all;
@@ -162,12 +162,12 @@ i.bg{
 	-moz-transition: 0.5s all;
 }
 i.bg:hover{
-	background: url(../bookimages/img-sprite.png)no-repeat -128px -49px;
+	background: url(/bookimages/img-sprite.png)no-repeat -128px -49px;
 }
 i.msg{
 	width: 30px;
 	height: 30px;
-	background: url(../bookimages/img-sprite.png)no-repeat -167px -14px;
+	background: url(/bookimages/img-sprite.png)no-repeat -167px -14px;
 	float: left;
 	vertical-align: middle;
 	transition: 0.5s all;
@@ -176,12 +176,12 @@ i.msg{
 	-moz-transition: 0.5s all;
 }
 i.msg:hover{
-	background: url(../bookimages/img-sprite.png)no-repeat -167px -49px;
+	background: url(/bookimages/img-sprite.png)no-repeat -167px -49px;
 }
 i.md{
 	width: 30px;
 	height: 30px;
-	background: url(../bookimages/img-sprite.png)no-repeat -92px -12px;
+	background: url(/bookimages/img-sprite.png)no-repeat -92px -12px;
 	float: left;
 	vertical-align: middle;
 	transition: 0.5s all;
@@ -190,7 +190,7 @@ i.md{
 	-moz-transition: 0.5s all;
 }
 i.md:hover{
-	background: url(../bookimages/img-sprite.png)no-repeat -92px -49px;
+	background: url(/bookimages/img-sprite.png)no-repeat -92px -49px;
 }
 .ama-bottom {
 	margin: 1em 0;
@@ -202,7 +202,7 @@ i.md:hover{
 	height: 26px;
 	width: 100%;
 	content: '';
-	background: url(../bookimages/line.png)no-repeat;
+	background: url(/bookimages/line.png)no-repeat;
 	display: block;
 	position: absolute;
 	left: 30px;
@@ -212,7 +212,7 @@ i.md:hover{
 	height: 26px;
 	width: 100%;
 	content: '';
-	background: url(../bookimages/line.png)no-repeat;
+	background: url(/bookimages/line.png)no-repeat;
 	display: block;
 	position: absolute;
 	left: 30px;
@@ -237,7 +237,7 @@ i.md:hover{
 	padding: 0;
 }
 .content-top{
-	background: url(../bookimages/bac.jpg) no-repeat;
+	background: url(/bookimages/bac.jpg) no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -280,7 +280,7 @@ i.md:hover{
 	color:#2096da;
 }
 .details-top li {
-  list-style-image: url(../bookimages/icon3.png);
+  list-style-image: url(/bookimages/icon3.png);
   margin: 0 0 10px 20px;
 }
 .details-left {
@@ -312,72 +312,72 @@ i.md:hover{
 i.facbk {
   width: 107px;
   height: 107px;
-  background: url(../bookimages/img-sprite.png)no-repeat -117px -92px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -117px -92px ;
   float: left;
   vertical-align: middle;
 }
 i.facbk:hover{
-  background: url(../bookimages/img-sprite.png)no-repeat -117px -210px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -117px -210px ;
 }
 i.twter {
   width: 107px;
   height: 107px;
-  background: url(../bookimages/img-sprite.png)no-repeat -3px -90px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -3px -90px ;
   float: left;
   vertical-align: middle;
 }
 i.twter:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -3px -211px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -3px -211px ;
 }
 i.dgg {
   width: 107px;
   height: 107px;
-  background: url(../bookimages/img-sprite.png)no-repeat -228px -93px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -228px -93px ;
   float: left;
   vertical-align: middle;
 }
 i.dgg:hover{
-  background: url(../bookimages/img-sprite.png)no-repeat -228px -207px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -228px -207px ;
 }
 i.rss1 {
   width: 107px;
   height: 107px;
-  background: url(../bookimages/img-sprite.png)no-repeat -342px -97px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -342px -97px ;
   float: left;
   vertical-align: middle;
 }
 i.rss1:hover{
-  background: url(../bookimages/img-sprite.png)no-repeat -342px -210px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -342px -210px ;
 }
 i.flikr {
  width: 107px;
   height: 107px;
-  background: url(../bookimages/img-sprite.png)no-repeat -460px -100px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -460px -100px ;
   float: left;
   vertical-align: middle;
 }
 i.flikr:hover{
-  background: url(../bookimages/img-sprite.png)no-repeat -460px -212px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -460px -212px ;
 }
 i.lnkd {
   width: 107px;
   height: 107px;
-  background: url(../bookimages/img-sprite.png)no-repeat -580px -105px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -580px -105px ;
   float: left;
   vertical-align: middle;
 }
 i.lnkd:hover{
-  background: url(../bookimages/img-sprite.png)no-repeat -580px -215px;
+  background: url(/bookimages/img-sprite.png)no-repeat -580px -215px;
 }
 i.drible {
  width: 107px;
   height: 107px;
-  background: url(../bookimages/img-sprite.png)no-repeat -700px -108px;
+  background: url(/bookimages/img-sprite.png)no-repeat -700px -108px;
   float: left;
   vertical-align: middle;
 }
 i.drible:hover{
-  background: url(../bookimages/img-sprite.png)no-repeat -701px -219px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -701px -219px ;
 }
 .social {
   position: absolute;
@@ -393,7 +393,7 @@ i.drible:hover{
   text-align: center;
   font-weight:300;
   text-transform: uppercase;
-  background: url(../bookimages/line1.png) no-repeat center;
+  background: url(/bookimages/line1.png) no-repeat center;
   margin-bottom:1em;
 }
 .flick ul{
@@ -425,7 +425,7 @@ i.comts {
   width: 13px;
   height: 13px;
   display: inline-block;
-  background: url("../bookimages/comts.png") no-repeat 0px 0px;
+  background: url("/bookimages/comts.png") no-repeat 0px 0px;
   vertical-align: middle;
   margin-right: 12px;
 }
@@ -503,7 +503,7 @@ color:#2096da;
   height: 26px;
   width: 100%;
   content: '';
-  background: url(../bookimages/line-2.png)no-repeat 33px 0px;
+  background: url(/bookimages/line-2.png)no-repeat 33px 0px;
   display: block;
   position: absolute;
   left: 0px;
@@ -513,7 +513,7 @@ color:#2096da;
   height: 26px;
   width: 100%;
   content: '';
-  background: url(../bookimages/line-2.png)no-repeat 33px 0px;
+  background: url(/bookimages/line-2.png)no-repeat 33px 0px;
   display: block;
   position: absolute;
   left: 0px;
@@ -575,7 +575,7 @@ i.adm {
   width: 15px;
   height: 15px;
   display: inline-block;
-  background: url("../bookimages/imzs.png") no-repeat -85px 1px;
+  background: url("/bookimages/imzs.png") no-repeat -85px 1px;
   vertical-align: middle;
   margin-right: 12px;
 }
@@ -583,7 +583,7 @@ i.inter {
   width: 15px;
   height: 15px;
   display: inline-block;
-  background: url("../bookimages/imzs.png") no-repeat -211px 2px;
+  background: url("/bookimages/imzs.png") no-repeat -211px 2px;
   vertical-align: middle;
   margin-right: 12px;
 }
@@ -715,7 +715,7 @@ ul.social-ic li{
 	display: inline-block;
 }
 ul.social-ic li  span{
-	background: url(../bookimages/lik.png)no-repeat -0px 0px ;
+	background: url(/bookimages/lik.png)no-repeat -0px 0px ;
 	width: 36px;
 	height: 36px;
 	display: block;
@@ -741,7 +741,7 @@ ul.social-ic1 li{
 	display: inline-block;
 }
 ul.social-ic1 li  span{
-	background: url(../bookimages/lik.png)no-repeat -0px 0px ;
+	background: url(/bookimages/lik.png)no-repeat -0px 0px ;
 	width: 36px;
 	height: 36px;
 	display: block;
@@ -767,7 +767,7 @@ ul.social-ic3 li{
 	display: inline-block;
 }
 ul.social-ic3 li  span{
-	background: url(../bookimages/lik.png)no-repeat -0px 0px ;
+	background: url(/bookimages/lik.png)no-repeat -0px 0px ;
 	width: 36px;
 	height: 36px;
 	display: block;
@@ -802,7 +802,7 @@ span.icon_text a:hover{
 	  padding: 0.4em;
 }
 .search2 input[type="submit"] {
-  background: url('../bookimages/sprit-1.png') no-repeat 2px 4px rgba(78, 73, 73, 0.99);
+  background: url('/bookimages/sprit-1.png') no-repeat 2px 4px rgba(78, 73, 73, 0.99);
   padding: 10px 18px;
   border: none;
   cursor: pointer;
@@ -1021,7 +1021,7 @@ i.tag {
   width: 15px;
   height: 15px;
   display: inline-block;
-  background: url("../bookimages/tag.png") no-repeat 1px 1px;
+  background: url("/bookimages/tag.png") no-repeat 1px 1px;
   vertical-align: middle;
   margin-right: 12px;
 }
@@ -1044,7 +1044,7 @@ i.tick {
   width: 39px;
   height: 39px;
   display: inline-block;
-  background: url("../bookimages/suc.png") no-repeat 0px 2px;
+  background: url("/bookimages/suc.png") no-repeat 0px 2px;
   vertical-align: middle;
   margin-right: 12px;
 }
@@ -1384,7 +1384,7 @@ ul.social-ic {
 	right: 20px;
 }
 .head-nav span.menu:before{
-	content:url(../bookimages/menu.png);
+	content:url(/bookimages/menu.png);
 	color:#FFF;
 	text-align:right;
 	cursor:pointer;
@@ -1431,71 +1431,71 @@ ul.social-ic {
 i.twter {
   width: 72px;
   height: 72px;
-  background: url(../bookimages/img-sprite.png)no-repeat -3px -61px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -3px -61px ;
    background-size: 40em;
 }
 i.twter:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -3px -142px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -3px -142px ;
   background-size: 40em;
 }
 i.facbk {
   width: 72px;
   height: 72px;
-  background: url(../bookimages/img-sprite.png)no-repeat -79px -62px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -79px -62px ;
   background-size: 40em;
 }
 i.facbk:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -79px -142px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -79px -142px ;
   background-size: 40em;
 }
 i.dgg {
   width: 72px;
   height: 72px;
-  background: url(../bookimages/img-sprite.png)no-repeat -153px -63px;
+  background: url(/bookimages/img-sprite.png)no-repeat -153px -63px;
   background-size: 40em;
 }
 i.dgg:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -154px -140px;
+  background: url(/bookimages/img-sprite.png)no-repeat -154px -140px;
   background-size: 40em;
 }
 i.rss1 {
   width: 72px;
   height: 72px;
-  background: url(../bookimages/img-sprite.png)no-repeat -231px -65px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -231px -65px ;
   background-size: 40em;
 }
 i.rss1:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -231px -141px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -231px -141px ;
   background-size: 40em;
 }
 i.flikr {
   width: 72px;
   height: 72px;
-  background: url(../bookimages/img-sprite.png)no-repeat -311px -67px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -311px -67px ;
   background-size: 40em;
 }
 i.flikr:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -311px -143px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -311px -143px ;
   background-size: 40em;
 }
 i.lnkd {
   width: 72px;
   height: 72px;
-  background: url(../bookimages/img-sprite.png)no-repeat -392px -71px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -392px -71px ;
   background-size: 40em;
 }
 i.lnkd:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -392px -145px;
+  background: url(/bookimages/img-sprite.png)no-repeat -392px -145px;
   background-size: 40em;
 }
 i.drible {
   width: 72px;
   height: 72px;
-  background: url(../bookimages/img-sprite.png)no-repeat -472px -73px;
+  background: url(/bookimages/img-sprite.png)no-repeat -472px -73px;
   background-size: 40em;
 }
 i.drible:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -473px -148px;
+  background: url(/bookimages/img-sprite.png)no-repeat -473px -148px;
   background-size: 40em;
 }
 .amazing {
@@ -1597,7 +1597,7 @@ span.icon_text {
   font-size: 0.9em;
 }
 .search2 input[type="submit"] {
-  background: url('../bookimages/sprit-1.png') no-repeat 2px 2px rgba(78, 73, 73, 0.99);
+  background: url('/bookimages/sprit-1.png') no-repeat 2px 2px rgba(78, 73, 73, 0.99);
   padding: 9px 18px;
 }
 .latest {
@@ -1768,71 +1768,71 @@ p.det {
 i.twter {
   width: 40px;
   height: 40px;
-  background: url(../bookimages/img-sprite.png)no-repeat -1px -33px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -1px -33px ;
   background-size: 22em;
 }
 i.twter:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -1px -78px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -1px -78px ;
   background-size: 22em;
 }
 i.facbk {
   width: 40px;
   height: 40px;
-  background: url(../bookimages/img-sprite.png)no-repeat -43px -34px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -43px -34px ;
   background-size: 22em;
 }
 i.facbk:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -43px -78px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -43px -78px ;
   background-size: 22em;
 }
 i.dgg {
   width: 40px;
   height: 40px;
-  background: url(../bookimages/img-sprite.png)no-repeat -84px -34px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -84px -34px ;
   background-size: 22em;
 }
 i.dgg:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -84px -76px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -84px -76px ;
   background-size: 22em;
 }
 i.rss1 {
   width: 40px;
   height: 40px;
-  background: url(../bookimages/img-sprite.png)no-repeat -127px -35px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -127px -35px ;
   background-size: 22em;
 }
 i.rss1:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -127px -77px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -127px -77px ;
   background-size: 22em;
 }
 i.flikr {
   width: 40px;
   height: 40px;
-  background: url(../bookimages/img-sprite.png)no-repeat -171px -37px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -171px -37px ;
   background-size: 22em;
 }
 i.flikr:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -171px -78px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -171px -78px ;
   background-size: 22em;
 }
 i.lnkd {
   width: 40px;
   height: 40px;
-  background: url(../bookimages/img-sprite.png)no-repeat -215px -38px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -215px -38px ;
   background-size: 22em;
 }
 i.lnkd:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -215px -79px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -215px -79px ;
   background-size: 22em;
 }
 i.drible {
   width: 40px;
   height: 40px;
-  background: url(../bookimages/img-sprite.png)no-repeat -260px -40px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -260px -40px ;
   background-size: 22em;
 }
 i.drible:hover {
-  background: url(../bookimages/img-sprite.png)no-repeat -260px -81px ;
+  background: url(/bookimages/img-sprite.png)no-repeat -260px -81px ;
   background-size: 22em;
 }
 .amazing {
@@ -2061,14 +2061,14 @@ a.b-home {
 	padding: 6em 0px;
 }
 ul.social-ic li span {
-  background: url(../bookimages/lik.png)no-repeat -0px 0px ;
+  background: url(/bookimages/lik.png)no-repeat -0px 0px ;
   width: 29px;
   height: 30px;
   display: block;
   background-size: 2em;
 }
 ul.social-ic1 li span {
-  background: url(../bookimages/lik.png)no-repeat -0px 0px ;
+  background: url(/bookimages/lik.png)no-repeat -0px 0px ;
   width: 29px;
   height: 30px;
   display: block;
